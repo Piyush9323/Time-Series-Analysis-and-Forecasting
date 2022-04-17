@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lne6qWnN4Ox23jA1gMjz9e9id9jl9aF3?usp=sharing)
 # Time-Series-Analysis-and-Forecasting
 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0001)](LICENSE)  [![](https://img.shields.io/badge/Piyush-Sharma-brightgreen.svg?colorB=ff0001)](https://www.linkedin.com/in/piyushsharma9323/)
 ## Time Series
